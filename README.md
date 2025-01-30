@@ -17,7 +17,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Simulation-Modelling-Project.git
+   git clone https://github.com/adityapatil484/Simulation-Modelling-Project.git
    ```
 2. Navigate to the project directory:
    ```sh
