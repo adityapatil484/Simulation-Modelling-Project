@@ -65,7 +65,7 @@ This project is licensed under the MIT License.
 ## Contact
 For questions or suggestions, reach out:
 - **Author**: Aditya Patil
-- **GitHub**: adityapatil484
+- **GitHub**: [adityapatil484](https://github.com/adityapatil484)
 
 ---
 🚀 Happy Coding!
